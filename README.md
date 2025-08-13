@@ -1,2 +1,1 @@
-# Health-and-Demographic-Patterns-in-South-Africa-HDPSA-A-Data-Mining-and-Visualization-Approach
-End-to-end CRISP-DM project on South Africa’s maternal mortality—data prep, EDA, modelling, evaluation, and reporting in R
+This repository hosts an end-to-end analysis of South Africa’s maternal mortality using the CRISP-DM framework. It includes reproducible R scripts for data selection/cleaning, feature prep, exploratory analysis, and baseline modelling, plus a knit-ready report. Outputs include intermediate checkpoints and a model-ready dataset; optional Power BI pages provide quick visuals for stakeholders. 
